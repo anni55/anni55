@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Kanhekar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/drive/u/0/folders/1GQ_yVlDMwhsUvittv4NSW_ffnj6DU6CP">
+<img align="right" alt="Coding" width="400" src="https://www.pngall.com/wp-content/uploads/12/Avatar-Profile-PNG-Photos.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anni55&label=Profile%20views&color=0e75b6&style=flat" alt="anni55" /> </p>
 
