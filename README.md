@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anni55.github.io/anni.gethub.io/portfolio/](https://anni55.github.io/anni.gethub.io/portfolio/)
 
-- 📫 How to reach me **aniketkanhekar1@gmail.com**
+- 📫 How to reach me **aniketbk.a55@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EvnNGdunEWEDfNN1E44YK-l2ehrbVSja/view](https://drive.google.com/file/d/1EvnNGdunEWEDfNN1E44YK-l2ehrbVSja/view)
 
